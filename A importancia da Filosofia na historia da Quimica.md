@@ -1,5 +1,7 @@
 ## A importância da Filosofia na história da Química
 
+![Filosofia](http://www.cliografia.com/wp-content/uploads/2013/04/pensador.jpg)
+
 A Química e a Filosofia	caminham juntas desde muito tempo e na minha opinião **todas as disciplinas nasceram de algum antigo debate filosófico**
 
 
@@ -37,3 +39,5 @@ Foi Demócrito quem batizou a “pequena partícula indivisível” de **átomo*
 Como uma professora de exatas procuro incluir nas minhas aulas a importância da Filosofia na evolução da história da ciência e assim posso dar o devido valor aos grandes pensadores que através de suas ideias, pensamentos e debates deram rumo a tantas pesquisas e descobertas. 
 
 ## E você acha importante o papel da filosofia na evolução da ciência?
+
+![Filósofos gregos](http://4.bp.blogspot.com/-iNYgL0j7mMc/VvhBGAkFsQI/AAAAAAAAAI0/hzkGCyPdMkYvBDoObY9oCwJEroLkBOEjw/s1600/Escola%2Bde%2BAtenas%2BPre%2BSocratico%2BFilosofia%2BPequi%2BDourado.jpg)
