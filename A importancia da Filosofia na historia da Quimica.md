@@ -8,7 +8,7 @@ A Química e a Filosofia	caminham juntas desde muito tempo e na minha opinião *
 > Ciência significa: sistema de adquirir conhecimento baseado no método científico bem como ao corpo organizado de conhecimento conseguido através de tais pesquisas
 
 
-Quando se fala de átomo e matéria um dos primeiros filósofos que pode-se citar é o grego Tales de Mileto (624 a.C – 544 a.C ), ele considerava a água como sendo a origem de todas as coisas, a chamava de “princípio único". 
+Quando se fala de átomo e matéria um dos primeiros filósofos que pode-se citar é o grego Tales de Mileto (624 a.C – 544 a.C ),  ele considerava a água como sendo a origem de todas as coisas, a chamava de “princípio único". 
 
 Existiram vários outros filósofos que participaram da evolução da história da Química, vou citar alguns e suas concepções sobre o átomo e a matéria:
 
@@ -31,6 +31,8 @@ Em 1952 o filósofo da ciência Karl Popper publicou um artigo intitulado “A n
 Quando ensino sobre a história da Química para meus alunos eu sempre menciono os filósofos gregos **Leucipo** e **Demócrito** (a.C.460 – 370 a.C.), ambos afirmavam que a matéria poderia ser dividida até chegar em uma pequena partícula indivisível.
 
 Foi Demócrito quem batizou a “pequena partícula indivisível” de **átomo**
+
+![átomo](http://www.grupoescolar.com/a/b/0BEB0.jpg)
 
 Como uma professora de exatas procuro incluir nas minhas aulas a importância da Filosofia na evolução da história da ciência e assim posso dar o devido valor aos grandes pensadores que através de suas ideias, pensamentos e debates deram rumo a tantas pesquisas e descobertas. 
 
